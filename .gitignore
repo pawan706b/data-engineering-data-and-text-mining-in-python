@@ -1,5 +1,6 @@
 # Data files
 data/
+Chinook_Sqlite.sqlite
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
